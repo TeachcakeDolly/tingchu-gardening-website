@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51c1f479.css",
+    "main.js": "/static/js/main.65ad16cb.js",
+    "static/media/landing-page.png": "/static/media/landing-page.88d71ee1063196ef668c.png",
+    "static/media/services-1.png": "/static/media/services-1.edcd1c2bcbef7a2608ba.png",
+    "static/media/core-value-1.png": "/static/media/core-value-1.dd6c03d4339de9e62c67.png",
+    "static/media/services-2.png": "/static/media/services-2.db000f5162614ba8008b.png",
+    "static/media/services-3.png": "/static/media/services-3.601afccdb680c246754d.png",
+    "static/media/services-4.png": "/static/media/services-4.e89ff1fddd4b3a0ebbed.png",
+    "static/media/core-value-2.png": "/static/media/core-value-2.99a8866a21331683f596.png",
+    "static/media/book-btn.svg": "/static/media/book-btn.a1077e70b8f3e57a1448baa5bcd2ac3b.svg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/logo.svg": "/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.51c1f479.css.map": "/static/css/main.51c1f479.css.map",
+    "main.65ad16cb.js.map": "/static/js/main.65ad16cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51c1f479.css",
+    "static/js/main.65ad16cb.js"
+  ]
+}
